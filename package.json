@@ -1,0 +1,28 @@
+{
+  "name": "poi",
+  "private": true,
+  "version": "1.0.0",
+  "description": "POI server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "beta"
+  ],
+  "author": "Andrei Mikhalenia",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "~2.5.2",
+    "koa-router": "~7.4.0",
+    "koa-body": "~2.0",
+    "mysql": "~2.15.0",
+    "redis": "~2.8.0",
+    "graphite": "~0.1.2",
+    "yargs": "~11.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikhalenia/poi-server.git"
+  }
+}
