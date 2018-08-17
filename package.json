@@ -1,5 +1,5 @@
 {
-  "name": "poi",
+  "name": "poi-server",
   "private": true,
   "version": "1.0.0",
   "description": "POI server",
